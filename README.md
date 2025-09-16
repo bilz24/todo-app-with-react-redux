@@ -27,25 +27,3 @@ npm install
 
 # start project
 npm run dev
-📂 Folder Structure
-arduino
-Copy code
-react-todo-app/
-├── public/
-├── src/
-│   ├── components/   # AddTodo, TodoList etc
-│   ├── config/       # Redux store & slices
-│   ├── App.jsx
-│   └── main.jsx
-├── package.json
-├── vite.config.js
-└── README.md
-🖥️ Usage
-Type a todo in the input box
-
-Click Add to save it
-
-Edit or Remove as needed
-
-👨‍💻 Author
-Bilal Ahmed
